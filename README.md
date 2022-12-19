@@ -21,7 +21,9 @@ The goal of the project is to develop a machine learning model that can accurate
 
 # Additional Notes
 
-1. Dataset link: https://github.com/Narcisse123/Sentiment-analysis/blob/main/sentiment_test.csv
+1. Dataset link: 
+https://github.com/Narcisse123/Sentiment-analysis/blob/main/sentiment_test.csv
+https://github.com/Narcisse123/Sentiment-analysis/blob/main/sentiment_train.csv
 
 
 2. You may need to handle imbalanced data, where the number of positive and negative reviews is not equal. This can be done through techniques such as oversampling or undersampling.
